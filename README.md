@@ -1,2 +1,2 @@
-# AAA_Benchmark
- Implement of AAA
+# AAA Benchmark
+ Artificial Algea Algorithm base code in matlab
